@@ -1,5 +1,4 @@
 # Visualizations
-Data Visualization Portfolio
 
 ## Google Data Studio
 [JY Main](https://datastudio.google.com/s/nCBukuUcrU8)
